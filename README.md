@@ -6,4 +6,4 @@ Olá, aqui quem fala é o Pepê! este foi o meu primeiro projeto em .bat, uma li
 
 Bom, espere que goste, e se quiser dar dicas sobre oque posso adicionar para melhorar, fique a vontade!
 
-Caso você queria ajudar, acesse o nosso servidor do discord [Clicando aqui!](https://discord.gg/2k4DCCK3vJ)
+Caso você queria ajudar, acesse o nosso servidor do discord [Clicando aqui!](https://discord.gg/2k4DCCK3vJ) ou [Doe para o Pepê!](https://streamelements.com/canaldopepe/tip)
