@@ -1,6 +1,7 @@
 @echo off
 cls
 :1
+cd C:\Program Files\searchbat
 title Search Bat - Created by Pepê!
 cls
 echo APP.bat
