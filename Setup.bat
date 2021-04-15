@@ -9,4 +9,5 @@ cd SearchBat
 rd /s .git
 del README.md > nul
 del Setup.bat > nul
+mklink "C:\Users\%username%\Desktop\SearchBat" "C:\Program Files\searchbat\App.bat"
 start App.bat
