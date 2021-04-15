@@ -2,6 +2,7 @@
 cls
 :1
 title Search Bat - Created by Pepê!
+cls
 echo APP.bat
 echo.
 echo ----------------------------
@@ -31,6 +32,7 @@ start Desinstalar.bat
 
 :GITHUB
 start www.github.com/Pepe-77777/searchbat
+goto 1
 
 :YOUTUBE
 cd Assets
