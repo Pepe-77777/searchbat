@@ -1,4 +1,4 @@
-Search BAT by Pepê
+# Search Bat
 
 - Atenção, este aplicativo requer o GIT para ser instalado! para baixar ele, [Acesse a pagina de download oficial dele](https://git-scm.com/downloads)
 
